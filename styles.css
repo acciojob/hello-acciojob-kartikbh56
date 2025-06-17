@@ -1,12 +1,11 @@
-
-/* Your CSS Code here. *//* Styling the main container */
+/* Styling for the main element */
 main.accio#job {
   width: 150px;
   height: 150px;
   background-color: #000000;
 }
 
-/* Styling the paragraph */
+/* Styling for the paragraph */
 .hello-accio {
   color: #ffffff;
   margin-left: 32px;
