@@ -1,11 +1,11 @@
-/* Styling for the main element */
+/* Styling the main element */
 main.accio#job {
   width: 150px;
   height: 150px;
   background-color: #000000;
 }
 
-/* Styling for the paragraph */
+/* Styling the paragraph */
 .hello-accio {
   color: #ffffff;
   margin-left: 32px;
